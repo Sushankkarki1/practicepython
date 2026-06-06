@@ -14,9 +14,9 @@
 # # print (a.find("h"))
 # # print (a.replace("u", "i"))
 
-# # a = input ("Enter your name: ")
-# # print (a.upper())
-# # print (a.lower())
-# # print (a.find("a"))
-# # print (a.replace("u", "i"))
-
+# a = input ("Enter your name: ")
+# print (a.upper())
+# print (a.lower())
+# print (a.find("u"))
+# print (a.replace("u", "i"))
+# print ("Sushank" in a)
